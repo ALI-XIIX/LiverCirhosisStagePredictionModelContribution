@@ -42,6 +42,10 @@ These visualizations were used to identify possible correlations between medical
 ## Sample outputs
 ![Output1](images/Screenshot%202026-03-08%20at%2021.55.58.png)
 
+![Output2](images/Screenshot%202026-03-08%20at%2021.56.20.png)
+
+![Output3](images/Screenshot%202026-03-08%20at%2021.56.31.png)
+
 ## Tools and Technologies
 - Python
 - Pandas
