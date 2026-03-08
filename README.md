@@ -38,12 +38,19 @@ Several relationships between clinical variables were explored using visualizati
 
 These visualizations were used to identify possible correlations between medical indicators and the stage of liver cirrhosis.
 
+
+## Sample outputs
+![Output1](images/Screenshot%202026-03-08%20at%2021.55.58.png)
+
 ## Tools and Technologies
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+
+
 
 ## Project Status
 This repository contains the **exploratory data analysis portion of the project**. Other stages of the team project involved building and evaluating machine learning models for predicting liver cirrhosis stages.
