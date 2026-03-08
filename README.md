@@ -57,7 +57,7 @@ These visualizations were used to identify possible correlations between medical
 
 
 ## Project Status
-This repository contains the **exploratory data analysis portion of the project**. Other stages of the team project involved building and evaluating machine learning models for predicting liver cirrhosis stages.
+This repository contains the **exploratory data analysis portion of the project**. Other stages of the team project involved building and evaluating machine learning models for predicting liver cirrhosis stages. The code is not runnable due to the other codes not present but there are sample outputs above
 
 ## Disclaimer
 This project was created for **educational and data science learning purposes only**. The analysis should not be used for medical diagnosis or clinical decision-making.
